@@ -9,6 +9,7 @@ def main_menu():
         print("3. Update Stock Level")
         print("4. Delete Product")
         print("5. Exit Application")
+        print("6.Create Category")
         
         choice = input("\nEnter your choice (1-5): ").strip()
 
